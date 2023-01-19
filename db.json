@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "username": "jay",
+      "password": "qwewqe",
+      "email": "j@gmail.com",
+      "phonenumber": "7897546546",
+      "gender": "Male",
+      "hobby": "",
+      "country": "India",
+      "state": "LA",
+      "city": "Rajkot",
+      "address": "ewrewrwew",
+      "image": "C:\\fakepath\\images1.jpg",
+      "tempuser": [
+        {
+          "name": "Singing"
+        },
+        {
+          "name": "Dancing"
+        },
+        {
+          "name": "Playing"
+        },
+        {
+          "name": "Sleeping"
+        }
+      ],
+      "Singing": "[object Object]",
+      "id": 49
+    },
+    {
+      "email": "dsfdsfds",
+      "password": "sdfdsfds",
+      "id": 131
+    },
+    {
+      "email": "sdfdsfds",
+      "password": "sdfdsfdsf",
+      "id": 132
+    },
+    {
+      "email": "jdfgdfgdfdfg",
+      "password": "fddfgaddf",
+      "id": 133
+    },
+    {
+      "email": "jaydeep@gmail.com",
+      "password": "123456",
+      "id": 134
+    },
+    {
+      "email": "g@gmail.com",
+      "password": "12314234",
+      "id": 135
+    },
+    {
+      "email": "dsfdsfdsfd",
+      "password": "sdfsdfds",
+      "id": 136
+    },
+    {
+      "email": "asdasdsx",
+      "password": "asdasdsa",
+      "id": 137
+    },
+    {
+      "email": "gg@gmail.com",
+      "password": "123456",
+      "id": 138
+    },
+    {
+      "email": "dfgdfgdf",
+      "password": "dfgdfg",
+      "id": 139
+    }
+  ]
+}
